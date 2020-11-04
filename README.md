@@ -1,4 +1,4 @@
-# CSE-1.2-Software-Development-Team-Project
+# Battle For the World (CSE-1.2-Software-Development-Team-Project) 
 A project to be developed by a team of 3 or 2 students.
 
 
